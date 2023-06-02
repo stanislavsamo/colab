@@ -1,3 +1,1 @@
 # Colaboration
-
-git is awesome
